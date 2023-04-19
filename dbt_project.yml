@@ -17,3 +17,6 @@ vars:
     campaign_history: "{{ ref('stg_facebook_ads__campaign_history') }}"
     creative_history: "{{ ref('stg_facebook_ads__creative_history') }}"
     url_tag: "{{ ref('stg_facebook_ads__url_tag') }}"
+    facebook_ads_database: rightonbracket
+    facebook_ads_schema: facebook_ads 
+    
